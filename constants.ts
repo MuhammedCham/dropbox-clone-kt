@@ -1,0 +1,32 @@
+export const COLOR_EXTENSION_MAP: {
+    [key:string]:string 
+} = {
+    pdf: "#0160fe",
+    docx: "#2b759a",
+    doc: "#2b759a",
+    pptx: "#b7472a",
+    ppt: "#b7472a",
+    xls: "#217346",
+    xlsx: "#217346",
+    mpeg: "#000000",
+    jpg: "#d4af37",
+    jpeg: "#d4af37",
+    gif: "#dfaf37",
+    png: "#4f86f4",
+    txt: "#000000",
+    mp4: "#000000",
+    mp3: "#000000",
+    rar: "#000000",
+    mov: "#000000",
+    avi: "#000000",
+    wav: "#000000",
+    wma: "#000000",
+    svg: "#000000",
+    m4a: "#000000",
+    exe: "#000000",
+    aac: "#000000",
+    dmg: "#000000",
+    glb: "#000000",
+    rs: "#000000",
+   
+}
